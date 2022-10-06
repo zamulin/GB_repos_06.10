@@ -14,7 +14,7 @@
 
 4. Откройте в Visual Studio Code свою папку -  *File - Open folder* (см. рис.1)
     
-    ![new_folder](/img/info.md_new_folder.png)  
+    ![new_folder](/Zamulin_repo/img/info.md_new_folder.png)  
     Далее можете создать новый файл и присвоить ему расширение, например, **.md**
 
 5. У вас откроется редактор, после этого откройте терминал, нажав кнопку **"Terminal"**(см. рис.2)
