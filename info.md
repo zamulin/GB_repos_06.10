@@ -1,2 +1,4 @@
-Привет, GitHub и мир
-Hello
+Привет, GitHub и мир!
+Hello!
+
+Salut!
